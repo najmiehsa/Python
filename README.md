@@ -1,0 +1,2 @@
+# SlowPython
+mini python exercises 
