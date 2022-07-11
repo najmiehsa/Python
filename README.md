@@ -1,8 +1,10 @@
 # SlowPython
 
-python exercises I do on a daily basis
+<p> Python exercises I do on a daily basis </P>
 
-Colons can be used to align columns.
+<br><br>
+
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
