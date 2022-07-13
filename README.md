@@ -3,8 +3,8 @@
 <p> Python exercises I do on a daily basis </P>
 
 
-| Tables        | Are           | 
+| Tables        | Diff level         | 
 | ------------- |:-------------:| 
-| exercise 1 is      | right-aligned |
-| exercise 2 is      | centered      |
-| exercise 3 is  | are neat      | 
+| Dictionary      | Mid |
+| Dice Rolling Stimulator      | Easy      |
+| Caesar_Cipher  | Kina easy      | 
