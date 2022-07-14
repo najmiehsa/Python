@@ -5,6 +5,6 @@
 
 | Tables        | Diff level         | 
 | ------------- |:-------------:| 
-| Dictionary      | Mid |
+| Dictionary      | Mid-level |
 | Dice Rolling Stimulator      | Easy      |
-| Caesar_Cipher  | Kina easy      | 
+| Caesar_Cipher  | Kinda easy      | 
